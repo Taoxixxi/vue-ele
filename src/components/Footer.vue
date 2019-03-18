@@ -14,7 +14,7 @@
     name: "Footer",
     data() {
       return {
-        tabPosition: 'top'
+        tabPosition: 'bottom'
       };
     }
   }
